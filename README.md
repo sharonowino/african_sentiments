@@ -9,13 +9,14 @@ Visualize sentiments of upskilling Professions in Africa.
        ID: Unique identifier for each entry                  
        Country: African nation of the individual            
        Cohort Year: Year of the leadership program               
-       Designation: Job title of the individual              
-       Organization: Company or organization                 
-       Leadership Journey: Description of career progression                   
-       Leadership Style: Preferred approach to leadership              
-       Recent Achievements: Notable successes                          
-       LMG Training Contribution: Skills gained from training              
-       Program Impact: Benefits noticed from the program             
-       Cascaded Training: Follow-up training or mentoring provided           
-       Support Needed: Additional resources or support requested          
-       Final Thoughts: Reflections or concluding statements                
+       Designation: Job title of the individual,  Common leadership roles              
+       Organization you work with: Company or organization                 
+       Please describe your leadership journey?: Description of career progression          
+       What has shaped your leadership style?: Preferred approach to leadership, Common influences on leadership style                
+       What recent achievements are you particularly proud of?: Notable successes           
+       How has LMG training contributed to your success?: Skills gained from training       
+       Reflecting on your experience, how has the program impacted your professional or personal growth?: Benefits noticed from the program             
+       Have you cascaded the LMG training to others in your organization or network?: Follow-up training or mentoring provided           
+       How can we support you as our alumni?: Additional resources or support requested     
+       Do you have any final thoughts or comments: Reflections or concluding statements   
+       Feel free to attach Aricles/ Publications/ Photos / videos: Left blank as no actual attachments can be generated.
