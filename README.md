@@ -1,8 +1,10 @@
 # african_sentiments
 Visualize sentiments of upskilling Professions in Africa.
 
-Data description
+## Data description
+
    Format: Each entry is captured in a CSV format with the following headers:
+   
        Timestamp: Date of entry                  
        ID: Unique identifier for each entry                  
        Country: African nation of the individual            
